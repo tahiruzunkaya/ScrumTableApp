@@ -1,0 +1,21 @@
+@model ScrumTableApp.Entity.Task
+
+<div class="col-md-12">
+  <h3 class="text-center">Add Task</h3>
+  <form method="post" asp-controller="Home" asp-action="CreateTask">
+    <div class="form-group">
+      <label asp-for="Name">Task Name</label>
+      <input asp-for="Name" class="form-control" id="formGroupExampleInput" placeholder="Task Name">
+    </div>
+    <div class="form-group">
+      <label asp-for="Description">Task Description</label>
+      <input asp-for="Description" class="form-control" id="formGroupExampleInput" placeholder="Task Description">
+    </div>
+    <div class="form-group">
+      <label asp-for="StoryId"></label>
+      <select class="form-control" asp-for="StoryId" asp-items="ViewBag.Stories">
+      </select>
+    </div>
+    <input class="btn btn-success" type="submit" value="Create" />
+  </form>
+</div>

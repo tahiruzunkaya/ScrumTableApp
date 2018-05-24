@@ -1,0 +1,16 @@
+
+
+@{
+  ViewData["Title"] = "Index";
+}
+
+<div class="row">
+
+  @await Component.InvokeAsync("Menu")
+
+  @await Component.InvokeAsync("Task")
+  
+  @await Component.InvokeAsync("Table");
+
+</div>
+

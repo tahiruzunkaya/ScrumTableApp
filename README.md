@@ -1,2 +1,0 @@
-# ScrumTableApp
-ScrumTableApp

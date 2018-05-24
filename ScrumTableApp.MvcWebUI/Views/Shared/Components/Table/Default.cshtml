@@ -1,0 +1,119 @@
+@model IEnumerable<Story>
+
+<table class="table table-hover mt-4">
+  <thead>
+    <tr>
+      <th scope="col">Stories</th>
+      <th scope="col">To Do</th>
+      <th scope="col">In Progress</th>
+      <th scope="col">Done</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (var item in Model)
+    {
+
+      <tr>
+        <td>
+          <div class="storyBox">
+            <h4>@item.Name</h4>
+            <p>@item.Description</p>
+
+          </div>
+        </td>
+
+
+
+        <td>
+
+          @foreach (var item1 in ViewBag.Tasks)
+          {
+
+            @if (item1.StoryId == item.StoryId && item1.Durum == 1)
+            {
+
+              <div class="taskBox">
+
+                <h4>@item1.Name</h4>
+                <p>@item1.Description</p>
+                <form asp-action="durumDegis" asp-controller="Home" method="post">
+                  <input type="hidden" name="id" value="@item1.TaskId" />
+                  <input type="hidden" name="durum" value="@item1.Durum" />
+                  <input class="btn btn-warning mt-2" type="submit" value="Yana Geç" />
+
+                </form>
+              </div>
+
+
+
+            }
+
+
+          }
+
+        </td>
+        <td>
+
+          @foreach (var item1 in ViewBag.Tasks)
+          {
+
+            @if (item1.StoryId == item.StoryId && item1.Durum == 2)
+            {
+
+              <div class="taskBox">
+                <h4>@item1.Name</h4>
+                <p>@item1.Description</p>
+
+                <form asp-action="durumDegis" asp-controller="Home" method="post">
+                  <input type="hidden" name="id" value="@item1.TaskId" />
+                  <input type="hidden" name="durum" value="@item1.Durum" />
+                  <input class="btn btn-warning mt-2" type="submit" value="Yana Geç" />
+
+                </form>
+              </div>
+
+
+
+            }
+
+
+          }
+
+        </td>
+        <td>
+
+          @foreach (var item1 in ViewBag.Tasks)
+          {
+
+            @if (item1.StoryId == item.StoryId && item1.Durum == 3)
+            {
+
+              <div class="taskBox">
+
+                <h4>@item1.Name</h4>
+                <p>@item1.Description</p>
+
+                <form asp-action="TaskDelete" asp-controller="Home" method="post">
+                  <input type="hidden" name="id" value="@item1.TaskId" />
+                  <input class="btn btn-danger mt-2" type="submit" value="Taskı Sil" />
+
+                </form>
+              </div>
+
+
+
+            }
+
+
+          }
+
+        </td>
+      </tr>
+
+    }
+
+
+
+
+  </tbody>
+</table>

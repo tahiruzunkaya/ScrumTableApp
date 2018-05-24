@@ -1,0 +1,16 @@
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.deps.json
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.runtimeconfig.json
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.Data.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.Data.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.MvcWebUI\obj\Debug\netcoreapp2.0\ScrumTableApp.MvcWebUI.csproj.CopyComplete

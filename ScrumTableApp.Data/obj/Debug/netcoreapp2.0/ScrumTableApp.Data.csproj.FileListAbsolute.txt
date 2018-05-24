@@ -1,0 +1,14 @@
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\ScrumTableApp.Data.deps.json
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\ScrumTableApp.Data.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\ScrumTableApp.Data.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.AssemblyInfoInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.AssemblyInfo.cs
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\obj\Debug\netcoreapp2.0\ScrumTableApp.Data.csproj.CopyComplete
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Data\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.xml

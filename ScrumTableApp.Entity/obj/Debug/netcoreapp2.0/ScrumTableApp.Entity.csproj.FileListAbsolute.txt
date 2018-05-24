@@ -1,0 +1,9 @@
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.deps.json
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\bin\Debug\netcoreapp2.0\ScrumTableApp.Entity.pdb
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.csprojAssemblyReference.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.AssemblyInfo.cs
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.dll
+C:\Users\Tahir\Desktop\project\ScrumTableApp\ScrumTableApp.Entity\obj\Debug\netcoreapp2.0\ScrumTableApp.Entity.pdb
